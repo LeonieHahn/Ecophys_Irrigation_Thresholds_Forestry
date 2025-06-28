@@ -1,4 +1,4 @@
-# Ecophysiologically driven irrigation scheduling for safeguarding reforestation efforts in drought-prone calamity areas in Central Europe
+## Ecophysiologically driven irrigation scheduling for safeguarding reforestation efforts in drought-prone calamity areas in Central Europe
 
 This repository contains a {targets} pipeline to reproduce the data analysis, results and figures from Hahn et al. (2025).
 
