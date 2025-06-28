@@ -1,0 +1,6 @@
+*.pper
+.Rhistory
+/.Rproj.user
+/_targets
+/data
+/graphics
